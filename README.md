@@ -1,3 +1,5 @@
+Tools / Technologies used: Tableau, Jupyter Notebook, and Excel
+
 # Citi-Bike-Tableau
 
 https://public.tableau.com/profile/john.palalia#!/
